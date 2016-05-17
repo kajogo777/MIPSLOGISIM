@@ -157,18 +157,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <a name="clabel" val=""/>
     <a name="clabelup" val="east"/>
     <a name="clabelfont" val="SansSerif plain 12"/>
-    <comp lib="4" loc="(220,90)" name="Register">
-      <a name="width" val="32"/>
-      <a name="label" val="Read Register 1"/>
-    </comp>
-    <comp lib="4" loc="(230,170)" name="Register">
-      <a name="width" val="32"/>
-      <a name="label" val="Read Register 2"/>
-    </comp>
-    <comp lib="4" loc="(240,450)" name="Register">
-      <a name="width" val="32"/>
-      <a name="label" val="Write Register"/>
-    </comp>
   </circuit>
   <circuit name="REGFILE">
     <a name="circuit" val="REGFILE"/>
